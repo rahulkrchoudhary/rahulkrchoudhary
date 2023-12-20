@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkrchoudhary" alt="rahulkrchoudhary" /></a> </p>
 
-- 🔭 I’m currently working on **eclaims.in**
+- 🔭 I’m currently working on **Sprinto**
 
-- 💬 Ask me about **Angular,Python ,Springboot**
+- 💬 Ask me about **React,Graph ql ,Node**
 
 - 📫 How to reach me **rahulkr.choudhary9@gmail.com**
 
